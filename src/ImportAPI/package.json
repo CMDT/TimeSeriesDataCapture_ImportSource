@@ -16,7 +16,7 @@
     "node": "8.2.1"
   },
   "dependencies": {
-    "auth-header": "^0.3.1",
+    "auth-header": "^1.0.0",
     "connect": "^3.2.0",
     "cors": "^2.8.4",
     "csvtojson": "^2.0.6",
